@@ -5,6 +5,9 @@
  */
 package week6;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  *
  * @author 4chasc78
@@ -17,12 +20,18 @@ public class Week6 {
     public static void main(String[] args) {
         // TODO code application logic here
         Car c1 = new Car();
-        Car c2 = new Car
+        Car c2 = new Car ();
         
+            
+        
+        c1.setNumberplate("WD96DXX");   
+                String numberplate = c1.setNumberplate();
+                System.out.println(Numberplate);
                 
-               
+          c1.Set
+             
        
-      c1.setnumberplate("");
+      
       
         
         
